@@ -77,7 +77,3 @@ Full walkthrough: [`docs/02-deployment.md`](docs/02-deployment.md).
 2. [Deployment](docs/02-deployment.md)
 3. [Organization and user management](docs/03-user-management.md)
 4. [Operations](docs/04-operations.md)
-
-## License
-
-MIT — see [LICENSE](LICENSE).
